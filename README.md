@@ -1,2 +1,2 @@
-# PasskeyAuth
+# AUTHSHEILD
 AuthShield is a secure, passwordless authentication system designed for banking applications. It replaces traditional passwords with modern authentication methods such as OTP verification, QR code login, biometric authentication , and trusted device recognition. The system enhances user convenience while improving security against password-related attacks. It also provides user profile management, login history, multi-device logout, and security alerts for suspicious login attempts, delivering a seamless and privacy-focused authentication experience.
